@@ -1,2 +1,3 @@
 # sonardatset
-It describes about sonar datase
+It describes about sonar dataset
+
